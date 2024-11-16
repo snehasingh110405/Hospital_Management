@@ -9,28 +9,34 @@ const Biography = ({imageUrl}) => {
         </div>
         <div className="banner">
           <p>Biography</p>
-          <h3>Who We Are</h3>
+          <h2>Why We Are</h2> <br />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+          Founded by Sneha Singh, Aakansha, and Simran Kaur <br /> <br />
+
+As third-year students of Bachelor of Computer Applications at Sri Guru Tegh Bahadur Institute of Management and Information Technology, affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), we share a collective passion for revolutionizing healthcare through technology. <br /><br />
+
+<strong>Our Vision</strong> <br /> <br />
+
+HealthTech Connect is born out of our desire to bridge the gap between healthcare and technology. Our platform aims to: <br />
+
+- Foster a community of innovators, healthcare professionals, and tech enthusiasts
+- Share knowledge, insights, and experiences in healthcare technology
+- Develop solutions to real-world healthcare challenges
+- Empower individuals to take control of their health and wellness
+<br /><br />
+<strong>Our Story</strong> <br /> <br />
+
+Driven by our passion for healthcare and technology, we saw an opportunity to create a platform where individuals from diverse backgrounds could converge, share ideas, and inspire change. HealthTech Connect is our commitment to transforming the healthcare landscape, one connection at a time. <br /> <br />
+
+<strong>Join Our Journey</strong><br /> <br />
+
+Stay updated on our latest developments, blog posts, and community events. Together, let's shape the future of healthcare technology! <br /> 
+
+Contact Us: [Zeecare@gmail.com]<br/> <br />
+
+ "Connecting Healthcare and Technology for a Brighter Tomorrow"
           </p>
-          <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
-          </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          
         </div>
       </div>
     </>
